@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+torch
+torchvision
+segmentation-models-pytorch
+rasterio
+scikit-learn
+geemap
+earthengine-api
